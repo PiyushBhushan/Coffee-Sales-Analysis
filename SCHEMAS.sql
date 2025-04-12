@@ -1,5 +1,5 @@
 Create Database monday_coffee_db;
--- Monday Coffee SCHEMAS
+-- Coffee SCHEMAS
 
 DROP TABLE IF EXISTS sales;
 DROP TABLE IF EXISTS customers;
